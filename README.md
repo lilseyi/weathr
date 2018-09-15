@@ -1,8 +1,7 @@
 # weathr
 
-A new Flutter project.
+A simple weather app built with flutter .
 
-## Getting Started
+## Upcoming Changes
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Currently working on a full week forecast feature
